@@ -271,10 +271,13 @@ Projeto educacional - Grupo Três
 
 **Grupo Três** - Projeto de Gerenciamento de Usuários
 
-Rodrigo Leal
-Thais soares
-Maria Eduarda
-Antonio Carlos
+**Rodrigo Leal**
+
+**Thais soares**
+
+**Maria Eduarda**
+
+**Antonio Carlos**
 
 ---
 
